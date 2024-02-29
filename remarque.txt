@@ -1,0 +1,2 @@
+don't need to use labelEncoder to convert all dat , cuz we have many binary textual as a male,female  
+===> replace('Gender' : {'Male' : 0 , 'Female' : 1})
